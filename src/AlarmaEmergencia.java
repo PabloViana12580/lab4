@@ -14,8 +14,8 @@ public class AlarmaEmergencia extends Alarma {
 	}
 	
 	public String toString(){
-		String cadena = "Emergencia "+ super.toString();
-		return cadena;
+		String letras = "Emergencia "+ super.toString();
+		return letras;
 	}
 
 }
